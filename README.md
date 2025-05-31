@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4A276&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+%7C+8%2B+Years+Experience;Graduating+June+2025+%7C+Actively+Job+Seeking;Web+Architecture+%26+Team+Leadership;React+%7C+Next.js+%7C+TypeScript+Expert;F-1+OPT+Eligible+%7C+Ready+to+Contribute!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=D4A276&center=true&vCenter=true&width=600&lines=Lead+Software+Engineer+%7C+8%2B+Years+Experience;Graduating+June+2025+%7C+Actively+Job+Seeking;Award+Recipient+Every+Year+%7C+8+Awards+Total;Web+Architecture+%26+Team+Leadership;React+%7C+Next.js+%7C+TypeScript+Expert;F-1+OPT+Eligible+%7C+Ready+to+Contribute!)
 
 </div>
 
@@ -28,7 +28,7 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 **💼 Work Authorization:** F-1 OPT eligible (no initial sponsorship required)  
 **🌍 Location:** Boston, MA (open to relocation)  
-**📅 Availability:** Immediate start after graduation
+**📅 Availability:** July 2025 start (graduating June 2025)
 
 <div align="center">
 
@@ -80,17 +80,22 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 ## 🏆 Professional Impact & Achievements
 
+**🌟 Award Recipient Every Year of Employment - 8 Awards Across 8 Years**
+
 **🏢 Lead Software Engineer @ Code and Theory** *(2021-2023)*
+- **🏆 3x Spot Awards** for leading teams through challenging requirements and delivering quality products
 - **Led frontend teams** delivering mental health applications with **20% improved accessibility**
 - **Reduced development time by 30%** through reusable component library creation
 - **Mentored junior developers** resulting in **15% code quality improvement**
 
 **⚡ Software Engineer III @ FactSet** *(2018-2021)*
+- **🏆 3x Star Awards** for outstanding contribution and excellent performance
 - **Improved system performance by 40%** for financial data applications
 - **Reduced data integration time by 35%** with custom Oracle SQL solutions
 - Specialized in **high-frequency trading platforms** and **real-time data processing**
 
 **🔧 Senior Systems Engineer @ Infosys** *(2015-2018)*
+- **🏆 2x Insta Awards** for innovation and automation excellence
 - **Automated enterprise workflows** reducing manual effort by **90%**
 - **Improved operational efficiency** for 80+ production applications
 
@@ -102,6 +107,11 @@ const siddaharth = {
   experience: "8+ years in software engineering",
   trackRecord: "Award recipient every year of employment",
   recognition: "8 awards across 3 companies for excellence and innovation",
+  awards: [
+    "3x Spot Awards @ Code and Theory (2021-2023)",
+    "3x Star Awards @ FactSet (2018-2021)", 
+    "2x Insta Awards @ Infosys (2015-2018)"
+  ],
   specialization: ["Frontend Architecture", "Team Leadership", "Performance Optimization"],
   industries: ["FinTech", "HealthTech", "Enterprise Software"],
   leadership: "Led teams of 5+ developers with measurable impact",
