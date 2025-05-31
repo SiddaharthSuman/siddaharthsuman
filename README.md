@@ -67,61 +67,38 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddaharthsuman&show_icons=true&count_private=true&theme=gruvbox&title_color=d4a276&icon_color=d4a276&text_color=c4b8ad&bg_color=35302b&border_color=d4a276" alt="Siddaharth's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddaharthsuman&layout=compact&theme=gruvbox&title_color=d4a276&text_color=c4b8ad&bg_color=35302b&border_color=d4a276" alt="Siddaharth's Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddaharthsuman&theme=gruvbox&ring=d4a276&fire=d4a276&currStreakLabel=d4a276&sideLabels=ebe5de&currStreakNum=ebe5de&dates=c4b8ad&background=35302b&border=d4a276" alt="Siddaharth's GitHub Streak" />
-</div>
-
 ## 🏆 Professional Impact & Achievements
 
 **🌟 Award Recipient Every Year of Employment - 8 Awards Across 8 Years**
 
-**🏢 Lead Software Engineer @ Code and Theory** *(2021-2023)*
-- **🏆 3x Spot Awards** for leading teams through challenging requirements and delivering quality products
-- **Led frontend teams** delivering mental health applications with **20% improved accessibility**
+🏆 **3x Spot Awards** | Code and Theory *(2021-2023)*
+- Led frontend teams delivering mental health applications with **20% improved accessibility**
 - **Reduced development time by 30%** through reusable component library creation
 - **Mentored junior developers** resulting in **15% code quality improvement**
 
-**⚡ Software Engineer III @ FactSet** *(2018-2021)*
-- **🏆 3x Star Awards** for outstanding contribution and excellent performance
+⚡ **3x Star Awards** | FactSet *(2018-2021)*
 - **Improved system performance by 40%** for financial data applications
 - **Reduced data integration time by 35%** with custom Oracle SQL solutions
 - Specialized in **high-frequency trading platforms** and **real-time data processing**
 
-**🔧 Senior Systems Engineer @ Infosys** *(2015-2018)*
-- **🏆 2x Insta Awards** for innovation and automation excellence
+🔧 **2x Insta Awards** | Infosys *(2015-2018)*
 - **Automated enterprise workflows** reducing manual effort by **90%**
 - **Improved operational efficiency** for 80+ production applications
 
-<div align="center">
+<div align="left">
 
 ### 🎯 What I Bring to Your Team
 ```javascript
-const siddaharth = {
-  experience: "8+ years in software engineering",
-  trackRecord: "Award recipient every year of employment",
-  recognition: "8 awards across 3 companies for excellence and innovation",
-  awards: [
-    "3x Spot Awards @ Code and Theory (2021-2023)",
-    "3x Star Awards @ FactSet (2018-2021)", 
-    "2x Insta Awards @ Infosys (2015-2018)"
-  ],
-  specialization: ["Frontend Architecture", "Team Leadership", "Performance Optimization"],
-  industries: ["FinTech", "HealthTech", "Enterprise Software"],
-  leadership: "Led teams of 5+ developers with measurable impact",
-  research: "Published researcher in modern web technologies",
-  mentorship: "Improved team code quality by 15%",
-  innovation: "Reduced development time by 30% through reusable solutions",
-  readyToContribute: true,
-  workAuthorization: "F-1 OPT (no sponsorship needed initially)"
-};
+// Senior Software Engineer - Ready to Make Impact
 ```
+
+| **Experience & Recognition** | **Proven Impact & Results** |
+|---|---|
+| ✅ **8+ years** in software engineering | 🚀 **30% faster** development cycles |
+| 🏆 **Award recipient every year** - 8 total awards | ⚡ **40% performance** improvements |
+| 👥 **Led teams** of 5+ developers | 📈 **15% code quality** improvement |
+| 📚 **Published researcher** - 2 peer-reviewed papers | 🏗️ **90% automation** of manual workflows |
+| 🎓 **F-1 OPT eligible** - no sponsorship needed | 📍 **Available July 2025** for immediate impact |
 
 </div>
 
@@ -166,25 +143,29 @@ Other        1 hr 15 mins    █▒░░░░░░░░░░░░░░░
 - Contributing to products that make a real impact
 - **Research and innovation** in emerging web technologies
 
-## 📝 Research & Technical Writing
+## 📝 Research & Innovation
 
-```bibtex
-@article{suman2015information,
-  title={Information system using Dart and MongoDB},
-  author={Suman, Siddaharth and Chonkar, Shrikar and Sawant, Shreyas and Moondra, Shikha},
-  journal={International Journal of Current Engineering and Technology},
-  year={2015}
-}
+**🔬 Early Pioneer in Modern Web Technologies**
 
-@article{chonkar2015supercharging,
-  title={Supercharging web applications with Dart and MongoDB},
-  author={Chonkar, Shrikar and Suman, Siddaharth and Sawant, Shreyas and Moondra, Shikha},
-  journal={International Journal of Current Engineering and Technology},
-  year={2015}
-}
-```
+<div align="left">
 
-**Research Focus:** Modern web architectures, NoSQL databases, performance optimization, and scalable application design
+**Published Research** *(International Journal of Current Engineering and Technology)*
+
+📄 **"Information system using Dart and MongoDB"** *(2015)*  
+&nbsp;&nbsp;&nbsp;&nbsp;*— First author • Peer-reviewed • [View Publication →](http://inpressco.com/information-system-using-dart-and-mongodb/)*
+
+📄 **"Supercharging web applications with Dart and MongoDB"** *(2015)*  
+&nbsp;&nbsp;&nbsp;&nbsp;*— Co-author • Peer-reviewed • [View Publication →](http://inpressco.com/supercharging-web-applications-with-dart-and-mongodb/)*
+
+**Research Impact:**
+- 🚀 **Early adoption research** in technologies now industry-standard
+- 🏗️ **Architectural innovations** for scalable web applications  
+- 📚 **Technical writing expertise** demonstrated through peer-reviewed publications
+- 🔍 **Forward-thinking approach** - researched emerging tech before mainstream adoption
+
+*Researched and published on modern web architectures when Dart and NoSQL were cutting-edge technologies*
+
+</div>
 
 ## 📞 Let's Connect!
 
