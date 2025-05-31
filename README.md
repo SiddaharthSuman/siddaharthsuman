@@ -33,9 +33,9 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddaharthsuman/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-D4A276?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-url.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-D4A276?style=for-the-badge&logo=react&logoColor=white)](https://siddaharthsuman.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:siddaharthsuman@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://your-resume-link.com)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://siddaharthsuman.vercel.app/resume.pdf)
 
 </div>
 
@@ -80,7 +80,7 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 ## 🏆 Professional Impact & Achievements
 
-**🏢 Senior Software Engineer @ Code and Theory** *(2021-2023)*
+**🏢 Lead Software Engineer @ Code and Theory** *(2021-2023)*
 - **Led frontend teams** delivering mental health applications with **20% improved accessibility**
 - **Reduced development time by 30%** through reusable component library creation
 - **Mentored junior developers** resulting in **15% code quality improvement**
@@ -100,10 +100,14 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 ```javascript
 const siddaharth = {
   experience: "8+ years in software engineering",
+  trackRecord: "Award recipient every year of employment",
+  recognition: "8 awards across 3 companies for excellence and innovation",
   specialization: ["Frontend Architecture", "Team Leadership", "Performance Optimization"],
   industries: ["FinTech", "HealthTech", "Enterprise Software"],
-  leadership: "Led teams of 5+ developers",
+  leadership: "Led teams of 5+ developers with measurable impact",
+  research: "Published researcher in modern web technologies",
   mentorship: "Improved team code quality by 15%",
+  innovation: "Reduced development time by 30% through reusable solutions",
   readyToContribute: true,
   workAuthorization: "F-1 OPT (no sponsorship needed initially)"
 };
@@ -116,8 +120,8 @@ const siddaharth = {
 <div align="center">
 
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=siddaharthsuman&repo=portfolio&theme=gruvbox&title_color=d4a276&text_color=c4b8ad&bg_color=35302b&border_color=d4a276)](https://github.com/siddaharthsuman/portfolio)
-[![Financial Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=siddaharthsuman&repo=financial-dashboard&theme=gruvbox&title_color=d4a276&text_color=c4b8ad&bg_color=35302b&border_color=d4a276)](https://github.com/siddaharthsuman/financial-dashboard)
-
+<!-- [![Financial Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=siddaharthsuman&repo=financial-dashboard&theme=gruvbox&title_color=d4a276&text_color=c4b8ad&bg_color=35302b&border_color=d4a276)](https://github.com/siddaharthsuman/financial-dashboard)
+-->
 </div>
 
 ## 📈 Weekly Development Breakdown
@@ -135,7 +139,7 @@ Other        1 hr 15 mins    █▒░░░░░░░░░░░░░░░
 ## 🚀 Open to These Opportunities
 
 **🎯 Preferred Roles:**
-- Senior Frontend Engineer / Full-Stack Engineer
+- Lead Frontend Engineer / Full-Stack Engineer
 - Frontend Architecture Lead
 - Technical Lead / Engineering Manager
 
@@ -150,6 +154,27 @@ Other        1 hr 15 mins    █▒░░░░░░░░░░░░░░░
 - Leading and mentoring engineering teams
 - Solving complex technical challenges at scale
 - Contributing to products that make a real impact
+- **Research and innovation** in emerging web technologies
+
+## 📝 Research & Technical Writing
+
+```bibtex
+@article{suman2015information,
+  title={Information system using Dart and MongoDB},
+  author={Suman, Siddaharth and Chonkar, Shrikar and Sawant, Shreyas and Moondra, Shikha},
+  journal={International Journal of Current Engineering and Technology},
+  year={2015}
+}
+
+@article{chonkar2015supercharging,
+  title={Supercharging web applications with Dart and MongoDB},
+  author={Chonkar, Shrikar and Suman, Siddaharth and Sawant, Shreyas and Moondra, Shikha},
+  journal={International Journal of Current Engineering and Technology},
+  year={2015}
+}
+```
+
+**Research Focus:** Modern web architectures, NoSQL databases, performance optimization, and scalable application design
 
 ## 📞 Let's Connect!
 
@@ -159,10 +184,10 @@ Other        1 hr 15 mins    █▒░░░░░░░░░░░░░░░
 
 **📧 Email:** [siddaharthsuman@gmail.com](mailto:siddaharthsuman@gmail.com)  
 **💼 LinkedIn:** [linkedin.com/in/siddaharthsuman](https://www.linkedin.com/in/siddaharthsuman/)  
-**🌐 Portfolio:** [View My Work](https://your-portfolio-url.com)  
+**🌐 Portfolio:** [View My Work](https://siddaharthsuman.vercel.app/)  
 **📱 Phone:** 857-316-7217
 
-*Available for interviews immediately | Ready to start June 2025*
+*Available for interviews immediately | Ready to start July 2025*
 
 </div>
 
