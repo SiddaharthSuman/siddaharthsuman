@@ -122,13 +122,11 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 ```text
 💬 Programming Languages: 
-Other                    2 hrs 8 mins        █████████████████████████   99.63 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Other                    2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 22/06/2025 18:49:06 UTC
+ Last Updated on 23/06/2025 18:52:28 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Open to These Opportunities
