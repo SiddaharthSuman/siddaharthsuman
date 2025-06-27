@@ -114,7 +114,7 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-106%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2032%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.7%20thousand%20lines%20of%20code-blue)
 
@@ -122,13 +122,13 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 43 mins        ████████████████░░░░░░░░░   62.80 % 
-TypeScript               47 mins             ███████░░░░░░░░░░░░░░░░░░   28.96 % 
-SCSS                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+Other                    1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.46 % 
+SCSS                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   29.32 % 
+TypeScript               54 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
 ```
 
 
- Last Updated on 26/06/2025 18:52:29 UTC
+ Last Updated on 27/06/2025 18:51:36 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Open to These Opportunities
