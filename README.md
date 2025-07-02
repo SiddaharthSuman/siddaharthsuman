@@ -114,23 +114,21 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 ## 📈 Weekly Development Breakdown
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2026%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-112.7%20thousand%20lines%20of%20code-blue)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 41 mins        ███████████░░░░░░░░░░░░░░   42.75 % 
-SCSS                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-TypeScript               54 mins             ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
-CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Other                    1 hr 41 mins        ███████████░░░░░░░░░░░░░░   43.25 % 
+SCSS                     1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   27.86 % 
+TypeScript               51 mins             █████░░░░░░░░░░░░░░░░░░░░   21.86 % 
+CSS                      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+HTML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 ```
 
 
- Last Updated on 30/06/2025 18:52:25 UTC
+ Last Updated on 02/07/2025 18:52:13 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Open to These Opportunities
