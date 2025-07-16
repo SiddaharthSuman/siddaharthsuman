@@ -122,15 +122,11 @@ I'm a **Lead Software Engineer** with **8+ years** of experience specializing in
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 27 mins        █████████████░░░░░░░░░░░░   52.04 % 
-Python                   31 mins             █████░░░░░░░░░░░░░░░░░░░░   18.85 % 
-TOML                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 15/07/2025 18:55:48 UTC
+ Last Updated on 16/07/2025 18:55:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🚀 Open to These Opportunities
